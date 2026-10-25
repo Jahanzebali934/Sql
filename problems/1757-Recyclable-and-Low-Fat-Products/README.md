@@ -24,9 +24,9 @@
 
 | | |
 |:--|:--|
-| **Attempts** | first try |
+| **Attempts** | 2 before accepted |
 | **Time to solve** | 24 min |
-| **Verdicts** | ✅ Accepted |
+| **Verdicts** | ✅ Accepted → ✅ Accepted |
 
 ---
 
