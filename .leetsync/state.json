@@ -1,0 +1,46 @@
+{
+  "v": 1,
+  "updatedAt": 1792937484300,
+  "devices": {
+    "433a1084-d376-4ba9-be9b-bf5f23ce1d1d": {
+      "lastSeen": 1792937483877
+    }
+  },
+  "problems": {
+    "1757": {
+      "attempts": 3,
+      "bestMemory": "0B (Beats 100%)",
+      "bestRuntime": "642 ms (Beats 29%)",
+      "date": "2026-10-25",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-10-25",
+      "folderName": "1757-Recyclable-and-Low-Fat-Products",
+      "language": "MySQL",
+      "number": 1757,
+      "slug": "recyclable-and-low-fat-products",
+      "solutionCount": 2,
+      "tags": [
+        "Database"
+      ],
+      "title": "Recyclable and Low Fat Products",
+      "at": 1792937483877
+    }
+  },
+  "achievements": {
+    "first_blood": 1792937278859
+  },
+  "sheets": {},
+  "days": [
+    "2026-10-25"
+  ],
+  "bests": {
+    "longestStreak": 1,
+    "pushes": 4
+  },
+  "identity": {
+    "installId": "34b70c07-60f9-439a-9b6c-1bdae1de4422",
+    "at": 1792935133844,
+    "name": "Jahanzeb Ali",
+    "nameAt": 1792936525301
+  }
+}
