@@ -3,7 +3,7 @@
 -- Difficulty : Easy
 -- Language   : MySQL
 -- Solution   : #2
--- Runtime    : 744 ms (Beats 13%)
+-- Runtime    : 659 ms (Beats 25%)
 -- Memory     : 0B (Beats 100%)
 -- Link       : https://leetcode.com/problems/recyclable-and-low-fat-products/
 -- ========================================================
