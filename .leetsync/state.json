@@ -1,16 +1,16 @@
 {
   "v": 1,
-  "updatedAt": 1793141573988,
+  "updatedAt": 1793141710894,
   "devices": {
     "433a1084-d376-4ba9-be9b-bf5f23ce1d1d": {
-      "lastSeen": 1793141573714
+      "lastSeen": 1793141710570
     }
   },
   "problems": {
     "584": {
-      "attempts": 1,
+      "attempts": 2,
       "bestMemory": "0B (Beats 100%)",
-      "bestRuntime": "1040 ms (Beats 5%)",
+      "bestRuntime": "718 ms (Beats 10%)",
       "date": "2026-10-27",
       "difficulty": "Easy",
       "firstSolvedOn": "2026-10-27",
@@ -18,12 +18,12 @@
       "language": "MySQL",
       "number": 584,
       "slug": "find-customer-referee",
-      "solutionCount": 1,
+      "solutionCount": 2,
       "tags": [
         "Database"
       ],
       "title": "Find Customer Referee",
-      "at": 1793141573714
+      "at": 1793141710570
     },
     "1757": {
       "attempts": 3,
@@ -41,7 +41,7 @@
         "Database"
       ],
       "title": "Recyclable and Low Fat Products",
-      "at": 1793141573714
+      "at": 1793141710570
     },
     "1768": {
       "attempts": 1,
@@ -60,7 +60,7 @@
         "String"
       ],
       "title": "Merge Strings Alternately",
-      "at": 1793141573714
+      "at": 1793141710570
     }
   },
   "achievements": {
@@ -76,7 +76,7 @@
   ],
   "bests": {
     "longestStreak": 3,
-    "pushes": 6
+    "pushes": 7
   },
   "identity": {
     "installId": "34b70c07-60f9-439a-9b6c-1bdae1de4422",
