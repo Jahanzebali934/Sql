@@ -1,12 +1,30 @@
 {
   "v": 1,
-  "updatedAt": 1793141522903,
+  "updatedAt": 1793141573988,
   "devices": {
     "433a1084-d376-4ba9-be9b-bf5f23ce1d1d": {
-      "lastSeen": 1793141522610
+      "lastSeen": 1793141573714
     }
   },
   "problems": {
+    "584": {
+      "attempts": 1,
+      "bestMemory": "0B (Beats 100%)",
+      "bestRuntime": "1040 ms (Beats 5%)",
+      "date": "2026-10-27",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-10-27",
+      "folderName": "0584-Find-Customer-Referee",
+      "language": "MySQL",
+      "number": 584,
+      "slug": "find-customer-referee",
+      "solutionCount": 1,
+      "tags": [
+        "Database"
+      ],
+      "title": "Find Customer Referee",
+      "at": 1793141573714
+    },
     "1757": {
       "attempts": 3,
       "bestMemory": "0B (Beats 100%)",
@@ -23,7 +41,7 @@
         "Database"
       ],
       "title": "Recyclable and Low Fat Products",
-      "at": 1793141522610
+      "at": 1793141573714
     },
     "1768": {
       "attempts": 1,
@@ -42,21 +60,23 @@
         "String"
       ],
       "title": "Merge Strings Alternately",
-      "at": 1793141522610
+      "at": 1793141573714
     }
   },
   "achievements": {
     "first_blood": 1792937278859,
-    "night_owl": 1793055736977
+    "night_owl": 1793055736977,
+    "on_fire": 1793141534029
   },
   "sheets": {},
   "days": [
     "2026-10-25",
-    "2026-10-26"
+    "2026-10-26",
+    "2026-10-27"
   ],
   "bests": {
-    "longestStreak": 2,
-    "pushes": 5
+    "longestStreak": 3,
+    "pushes": 6
   },
   "identity": {
     "installId": "34b70c07-60f9-439a-9b6c-1bdae1de4422",
