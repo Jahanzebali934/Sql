@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-6%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-6%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-0%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-7%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-7%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-0%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -32,6 +32,7 @@
 | 584 | [Find Customer Referee](problems/0584-Find-Customer-Referee) | 🟩 Easy | `MySQL` | 2026-10-27 |
 | 595 | [Big Countries](problems/0595-Big-Countries) | 🟩 Easy | `MySQL` | 2026-10-27 |
 | 1148 | [Article Views I](problems/1148-Article-Views-I) | 🟩 Easy | `MySQL` | 2026-10-28 |
+| 1378 | [Replace Employee ID With The Unique Identifier](problems/1378-Replace-Employee-ID-With-The-Unique-Identifier) | 🟩 Easy | `MySQL` | 2026-10-29 |
 | 1683 | [Invalid Tweets](problems/1683-Invalid-Tweets) | 🟩 Easy | `MySQL` | 2026-10-28 |
 | 1757 | [Recyclable and Low Fat Products](problems/1757-Recyclable-and-Low-Fat-Products) | 🟩 Easy | `MySQL` | 2026-10-25 |
 | 1768 | [Merge Strings Alternately](problems/1768-Merge-Strings-Alternately) | 🟩 Easy | `Kotlin` | 2026-10-26 |
