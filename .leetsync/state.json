@@ -1,12 +1,32 @@
 {
   "v": 1,
-  "updatedAt": 1795042693664,
+  "updatedAt": 1795042777186,
   "devices": {
     "433a1084-d376-4ba9-be9b-bf5f23ce1d1d": {
-      "lastSeen": 1795042693338
+      "lastSeen": 1795042776917
     }
   },
   "problems": {
+    "53": {
+      "attempts": 1,
+      "bestMemory": "31.4 MB (Beats 53%)",
+      "bestRuntime": "26 ms (Beats 89%)",
+      "date": "2026-11-18",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-11-18",
+      "folderName": "0053-Maximum-Subarray",
+      "language": "Python",
+      "number": 53,
+      "slug": "maximum-subarray",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Divide and Conquer",
+        "Dynamic Programming"
+      ],
+      "title": "Maximum Subarray",
+      "at": 1795042776917
+    },
     "584": {
       "attempts": 2,
       "bestMemory": "0B (Beats 100%)",
@@ -23,7 +43,7 @@
         "Database"
       ],
       "title": "Find Customer Referee",
-      "at": 1795042693338
+      "at": 1795042776917
     },
     "595": {
       "attempts": 7,
@@ -41,7 +61,7 @@
         "Database"
       ],
       "title": "Big Countries",
-      "at": 1795042693338
+      "at": 1795042776917
     },
     "620": {
       "attempts": 1,
@@ -59,7 +79,7 @@
         "Database"
       ],
       "title": "Not Boring Movies",
-      "at": 1795042693338
+      "at": 1795042776917
     },
     "1068": {
       "attempts": 1,
@@ -77,7 +97,7 @@
         "Database"
       ],
       "title": "Product Sales Analysis I",
-      "at": 1795042693338
+      "at": 1795042776917
     },
     "1148": {
       "attempts": 1,
@@ -95,7 +115,7 @@
         "Database"
       ],
       "title": "Article Views I",
-      "at": 1795042693338
+      "at": 1795042776917
     },
     "1378": {
       "attempts": 1,
@@ -113,7 +133,7 @@
         "Database"
       ],
       "title": "Replace Employee ID With The Unique Identifier",
-      "at": 1795042693338
+      "at": 1795042776917
     },
     "1683": {
       "attempts": 1,
@@ -131,7 +151,7 @@
         "Database"
       ],
       "title": "Invalid Tweets",
-      "at": 1795042693338
+      "at": 1795042776917
     },
     "1757": {
       "attempts": 3,
@@ -149,7 +169,7 @@
         "Database"
       ],
       "title": "Recyclable and Low Fat Products",
-      "at": 1795042693338
+      "at": 1795042776917
     },
     "1768": {
       "attempts": 1,
@@ -168,13 +188,15 @@
         "String"
       ],
       "title": "Merge Strings Alternately",
-      "at": 1795042693338
+      "at": 1795042776917
     }
   },
   "achievements": {
+    "deca": 1795042745239,
     "first_blood": 1792937278859,
     "night_owl": 1793055736977,
-    "on_fire": 1793141534029
+    "on_fire": 1793141534029,
+    "polyglot": 1795042745239
   },
   "sheets": {},
   "days": [
@@ -184,11 +206,12 @@
     "2026-10-28",
     "2026-10-29",
     "2026-11-08",
-    "2026-11-17"
+    "2026-11-17",
+    "2026-11-18"
   ],
   "bests": {
     "longestStreak": 5,
-    "pushes": 14
+    "pushes": 15
   },
   "identity": {
     "installId": "34b70c07-60f9-439a-9b6c-1bdae1de4422",
