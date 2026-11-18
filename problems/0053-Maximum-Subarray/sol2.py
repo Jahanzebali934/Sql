@@ -3,8 +3,8 @@
 # Difficulty : Medium
 # Language   : Python
 # Solution   : #2
-# Runtime    : 28 ms (Beats 83%)
-# Memory     : 31.3 MB (Beats 75%)
+# Runtime    : 27 ms (Beats 87%)
+# Memory     : 31.1 MB (Beats 89%)
 # Link       : https://leetcode.com/problems/maximum-subarray/
 # ==========================================================
 
