@@ -15,7 +15,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="panel-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="panel-light.svg">
-  <img alt="Topics: Array, Divide and Conquer, Dynamic Programming — best runtime 26 ms (Beats 89%), best memory 31.3 MB (Beats 75%)" src="panel-dark.svg">
+  <img alt="Topics: Array, Divide and Conquer, Dynamic Programming — best runtime 26 ms (Beats 89%), best memory 31.1 MB (Beats 89%)" src="panel-dark.svg">
 </picture>
 
 </div>
@@ -24,9 +24,9 @@
 
 | | |
 |:--|:--|
-| **Attempts** | 2 before accepted |
+| **Attempts** | 3 before accepted |
 | **Time to solve** | 7 min |
-| **Verdicts** | ✅ Accepted → ✅ Accepted |
+| **Verdicts** | ✅ Accepted → ✅ Accepted → ✅ Accepted |
 
 ---
 
